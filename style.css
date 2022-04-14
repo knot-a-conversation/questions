@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.qdiv{
+  font-family: 'Roboto',sans-serif;
+  font-size: 14px;
+}
+
+#questions-GPT{
+  font-family: 'Roboto',sans-serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+  padding: 2.5rem 2.5rem 0.5rem 2.5rem;
+  text-transform: capitalize ;
+}
+
+#questiongroup{
+  padding: 0 2.5rem 0.5rem 2.5rem;
+}
