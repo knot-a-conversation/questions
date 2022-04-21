@@ -1,0 +1,29 @@
+{
+  "description": "list of Q & As for knot a conversation",
+  "knotalist": [{
+      "desc": "knot one green",
+      "question": ["How will AI change the way we behave?"]
+      
+    },
+    {
+      "desc": "knot two red",
+      "question": ["What is artificial creativity?", " What is labour in the Artificial?"]
+     
+    },
+    {
+      "desc": "knot three yellow",
+      "question": ["How can we be kins with code and machines?"]
+      
+    },
+    {
+        "desc": "knot four blue",
+      "question": ["What is hidden to us but seen by AI's?"]
+     
+    },
+    {
+      "desc": "knot five magenta",
+      "question": ["What can computers make without our interference?"]
+    
+    }
+  ]
+}
